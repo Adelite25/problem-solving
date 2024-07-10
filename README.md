@@ -3,7 +3,7 @@
 ## Explored Topics
 
 ### Data Structure
--
+- vector
 -
 -
 ### Algorithms
